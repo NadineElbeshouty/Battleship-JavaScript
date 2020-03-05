@@ -27,6 +27,10 @@ Useful references:
 
 ### Step 4: Create event handler and write the game logic
 
+
+
+
+![Image description](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIA1840SpUFTWFiJJGxNavHsDYtVOb2Otjgnw7t5ODlcoXJV2l)
 Useful references:
 - [Events in JavaScript](http://www.kirupa.com/html5/javascript_events.htm)
 - [Handling Events for Many Elements](http://www.kirupa.com/html5/handling_events_for_many_elements.htm)
