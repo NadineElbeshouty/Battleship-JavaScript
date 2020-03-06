@@ -70,13 +70,13 @@ function fireTorpedo(e) {
 
 		// if player clicks a square with no ship, change the color and change square's value
 		if (gameBoard[row][col] == 0) {
-			e.target.style.background = '#413c69';
+			e.target.style.background = '#eca0b6';
 			// set this square's value to 3 to indicate that they fired and missed
 			gameBoard[row][col] = 3;
 
 			// if player clicks a square with a ship, change the color and change square's value
 		} else if (gameBoard[row][col] == 1) {
-			e.target.style.background = '#eca0b6';
+			e.target.style.background = '#413c69';
 			// set this square's value to 2 to indicate the ship has been hit
 			gameBoard[row][col] = 2;
 

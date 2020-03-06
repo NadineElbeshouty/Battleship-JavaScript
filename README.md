@@ -29,6 +29,7 @@ Useful references:
 
 - [Arrays in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
+![Image description](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIA1840SpUFTWFiJJGxNavHsDYtVOb2Otjgnw7t5ODlcoXJV2l)
 ### Step 4: Create event handler and write the game logic
 
 Useful references:
@@ -48,4 +49,3 @@ Features to implement next:
 - Make better graphics, maybe add sound effects?
 - Make a 2-player version of the game!
 
-![Image description](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTIA1840SpUFTWFiJJGxNavHsDYtVOb2Otjgnw7t5ODlcoXJV2l)
